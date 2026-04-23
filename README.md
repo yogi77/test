@@ -63,8 +63,11 @@ pip install -r requirements.txt
 - Breakdown of user types (subscribers vs. customers)
 
 ## 📂 Project Structure
-
-
+```bash
+|--- Bikeshare.py 
+|--- README.md
+|--- business-operations-survey.csv
+```
 ## 📝 Notes
 - This project is for educational purposes and demonstrates data analysis techniques.
 - Everyone is free to use it for learning.
