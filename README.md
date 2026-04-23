@@ -26,8 +26,8 @@ This repository contains:
   - `os`
 
 Install dependencies with:
-```bash 
-pip install pandas numpy ```
+bash 
+``` pip install pandas numpy ```
 
 ## 🚀 Getting Started
 
