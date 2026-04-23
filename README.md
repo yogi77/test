@@ -36,12 +36,14 @@ pip install pandas numpy
 Follow these steps to set up and run the project:
 
 1. Clone the repository
+
 Run below command in cmd:
 ```
 git clone https://github.com/your-username/bikeshare-project.git
 cd bikeshare-project
 ```
-2. Install dependencies
+2. Install dependencies:
+   
 Run below command in cmd:
 ```
 pip install -r requirements.txt
