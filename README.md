@@ -63,6 +63,7 @@ pip install -r requirements.txt
 - Breakdown of user types (subscribers vs. customers)
 
 ## 📂 Project Structure
+
 ├── bikeshare.py                   # Main Python script
 ├── business-operations-survey.csv # Sample dataset
 └── README.md                      # Project documentation
