@@ -38,16 +38,16 @@ Follow these steps to set up and run the project:
 1. Clone the repository:
 
    bash
-```
-git clone https://github.com/your-username/bikeshare-project.git
-cd bikeshare-project
-```
+    ```
+    git clone https://github.com/your-username/bikeshare-project.git
+    cd bikeshare-project
+    ```
 2. Install dependencies:
 
    bash
-```
-pip install -r requirements.txt
-```
+    ```
+    pip install -r requirements.txt
+    ```
 3. Run the program:
 
    bash
